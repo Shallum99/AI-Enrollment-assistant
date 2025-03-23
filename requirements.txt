@@ -1,0 +1,32 @@
+# Core Framework
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Voice Processing
+SpeechRecognition>=3.10.0
+gTTS>=2.3.2
+pvporcupine>=2.2.0
+PyAudio>=0.2.13
+
+# Browser Automation
+langchain>=0.0.267
+langchain-openai>=0.0.2
+
+# LLM Integration
+openai>=1.0.0
+
+# Testing
+pytest>=7.4.0
+httpx>=0.24.1
+
+pydantic-settings>=2.0.3
+playwright>=1.38.0
+google-cloud-speech>=2.21.0
+pyttsx3>=2.90
+aiohttp>=3.8.6
+pytest-asyncio>=0.21.1
+loguru>=0.7.2
+browser-use>=0.1.0  # Assuming this is a valid package
+python-multipart>=0.0.6
